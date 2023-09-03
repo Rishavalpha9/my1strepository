@@ -4,4 +4,4 @@ principal amount =p
 year =Y
 Rate =R
 s.i=(p*r*y)/100
-amount=s.i+p;
+
